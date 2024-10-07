@@ -1,0 +1,30 @@
+{
+  "mappings": {
+    "properties": {
+      "שם ראשי": {
+        "type": "text"
+      },
+      "תואר": {
+        "type": "text"
+      },
+      "שם מישני": {
+        "type": "text"
+      },
+      "קבוצה": {
+        "type": "text"
+      },
+      "קבוצה נוספת": {
+        "type": "text"
+      },
+      "סוג": {
+        "type": "text"
+      },
+      "קוד": {
+        "type": "integer"
+      },
+      "שכונה": {
+        "type": "text"
+      }
+    }
+  }
+}
